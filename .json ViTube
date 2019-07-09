@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "ViTube",
+            "invocationName": "YouTube",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
